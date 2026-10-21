@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+gnn_env/
+.ipynb_checkpoints/
+
+# MATLAB
+*.asv
+
+# Temporary/backup files
+*copy.py
+
+# OS/editor files
+.DS_Store
+*~
+
+# Large/local workspace files
+workspace.mat
